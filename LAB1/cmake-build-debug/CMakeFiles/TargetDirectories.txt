@@ -1,0 +1,3 @@
+C:/Users/slgzo/CLionProjects/SE226_Labs/LAB1/cmake-build-debug/CMakeFiles/LAB1.dir
+C:/Users/slgzo/CLionProjects/SE226_Labs/LAB1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/slgzo/CLionProjects/SE226_Labs/LAB1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
